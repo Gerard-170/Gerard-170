@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gerard-170
 - 👀 I’m interested in Cybersecurity, Embedded Systems and ML
-- 🌱 I’m currently learning CCNP Security and ML
+- 🌱 I’m currently learning ML and SQL
 - 💞️ I’m looking to collaborate on Data collecting and Models 
 - 📫 How to reach me email: gerardohuerta1705@gmail.com
 
