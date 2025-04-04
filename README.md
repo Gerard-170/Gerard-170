@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gerard-170
-- 👀 My Interests: Embedded Systems, Digital Design and NLP
-- 🌱 I’m currently learning NLP and FPGA
-- 💞️ I’m looking to collaborate on AI for climate change and NLP Models for embedded systems 
+- 👀 My Interests: Network Automation, Embedded Systems, Digital Design, NLP and Vision Models
+- 🌱 I’m currently learning System Verilog
+- 💞️ I’m looking to collaborate on AI projects for climate change
 - 📫 How to reach me email: gerardohuerta1705@gmail.com
 
 <!---
