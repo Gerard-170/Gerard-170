@@ -12,8 +12,9 @@ I've also worked on AI for climate change projects which is part of my interests
 - 💞️ I’m eager to collaborate on digital design projects and AI projects for climate change
 - 📫 How to reach me email: gerardohuerta1705@gmail.com
 
-My personal blog: https://medium.com/@gerardohuerta1705/
+Chair IEEE EDS chapter Nicaragua.
 
+My personal blog: https://medium.com/@gerardohuerta1705/
 <!---
 Gerard-170/Gerard-170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
